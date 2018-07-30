@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Entities", "FS.Entities\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.DTOs", "FS.DTOs\FS.DTOs.csproj", "{EB2AE7EE-A1E6-49A0-A641-C476B7E469CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Services", "FS.Services\FS.Services.csproj", "{C6245444-D039-45D0-A58D-54A260A3FA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Services.Interfaces", "FS.Services.Interfaces\FS.Services.Interfaces.csproj", "{8FB398CC-3B7D-48C4-9F63-124AFF8BEE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{EB2AE7EE-A1E6-49A0-A641-C476B7E469CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB2AE7EE-A1E6-49A0-A641-C476B7E469CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB2AE7EE-A1E6-49A0-A641-C476B7E469CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6245444-D039-45D0-A58D-54A260A3FA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6245444-D039-45D0-A58D-54A260A3FA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6245444-D039-45D0-A58D-54A260A3FA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6245444-D039-45D0-A58D-54A260A3FA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB398CC-3B7D-48C4-9F63-124AFF8BEE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB398CC-3B7D-48C4-9F63-124AFF8BEE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB398CC-3B7D-48C4-9F63-124AFF8BEE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB398CC-3B7D-48C4-9F63-124AFF8BEE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
